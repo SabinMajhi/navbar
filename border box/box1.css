@@ -1,0 +1,30 @@
+#ok{
+  background-color: blueviolet;
+  padding: 50px;
+  color: aliceblue;
+  text-transform: capitalize;
+  line-height: 40px;
+  text-indent: 30px;
+}
+#bye{
+  background-color: blue;
+  border: 50px solid blue;
+  text-align: right, left, center, justify;
+}
+#come{
+  background-color: brown;
+  margin: 50px;
+  text-decoration: underline white;
+
+}
+span {
+  display: inline;
+}
+.b{ 
+  display: block;
+}
+a {
+  display: black;
+  margin-top: 20px;
+}
+

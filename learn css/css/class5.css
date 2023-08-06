@@ -1,0 +1,13 @@
+.color_blue{
+  color:red;
+}
+
+.color_rgb{
+  color: rgb(255, 0, 0);
+}
+.color_rgba{
+  color: rgba(255,0,0,0.5);
+}
+.color_rgba{
+  border: 2cap solid red;
+}

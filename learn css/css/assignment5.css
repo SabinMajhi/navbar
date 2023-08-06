@@ -1,0 +1,40 @@
+p {
+  border: 20px red solid;
+}
+
+
+
+
+.Dashed{
+  border: 20px black dashed;
+}
+
+
+.dotted{
+  border: 20px black dotted;
+}
+
+.double{
+  border: 20px black double;
+}
+
+
+.groove{
+  border: 20px black groove;
+}
+
+.inset{
+  border: 20px black inset;
+}
+
+.outset{
+  border: 20px black outset;
+}
+
+.ridge{
+  border: 20px black ridge;
+}
+
+.solid{
+  border: 20px black solid;
+}
